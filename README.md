@@ -1,6 +1,6 @@
-# Mini Projects
+# Mini Projects in Python
 
-This repository contains mini projects in python which are listed below:
+This repository contains mini projects in python and are as follows:
 * Hangman
 * Caesar Cipher
 * BlackJack
