@@ -8,3 +8,5 @@ This repository contains mini projects in python and are as follows:
 * Rock Paper Scissor
 * Highest Bidder
 * Bill Payment
+* Higher lower
+* Guess the number
